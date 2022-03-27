@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Opensans');
+
+.opensans {
+  font-family: "Opensans", sans-serif!important;
+}
+
+.glass {
+  padding: 0;
+  border: 1px solid rgb(41, 44, 114);
+  border-radius: 10px 10px 2px 2px;
+  background-color:  rgba(16, 16, 44, 0.698);
+  /* box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(0,0,0,0.1), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3);
+  -o-box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(0,0,0,0.1), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3);
+  -webkit-box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(0,0,0,0.1), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3);
+  -moz-box-shadow: 0 2px 6px rgba(0,0,0,0.5), inset 0 1px rgba(255,255,255,0.3), inset 0 10px rgba(0,0,0,0.1), inset 0 10px 20px rgba(255,255,255,0.25), inset 0 -15px 30px rgba(0,0,0,0.3); */
+}
+
+.main-bg {
+  background: radial-gradient(46.6% 93.31% at 50% 53.4%, rgb(0, 0, 0) 0%, rgb(23, 15, 71) 100%)!important;
+  background-image: url("./assets/images/bg_metarun.png")!important; 
+  background-image: url("./assets/images/bg_metarun.png"), radial-gradient(46.6% 93.31% at 50% 53.4%, rgb(0, 0, 0) 0%, rgb(23, 15, 71) 100%)!important;
+}

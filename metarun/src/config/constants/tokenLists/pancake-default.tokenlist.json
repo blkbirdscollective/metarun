@@ -1,0 +1,30 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["", "default"],
+  "tokens": [
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+    {
+      "name": "METARUN",
+      "symbol": "METARUN",
+      "address": "0x7b7b2138D78970Ff67E2d8D3292447856db647eB",
+      "chainId": 56,
+      "decimals": 9,
+      "logoURI": "https://static.wixstatic.com/media/389693_c1eb5719f8b04243abea567e4221984f~mv2.png/v1/fill/w_372,h_372,al_c,q_85,usm_0.66_1.00_0.01/PKLN%20Logo.webp"
+    }
+  ]
+}
